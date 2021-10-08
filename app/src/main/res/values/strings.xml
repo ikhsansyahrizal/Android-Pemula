@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MountainINA</string>
+    <string name="mountain_name">mountain_name</string>
+    <string name="mountain_detail">mountain_detail</string>
+    <string name="about_name">Ikhsan Syahrizal</string>
+    <string name="about_email">ikhsansyahrizal23@gmail.com</string>
+    <string name="about_phone">Phone : \t 085156384468</string>
+    <string name="about_fb">Facebook : \t Syahrizal Ikhsan</string>
+    <string name="about_ig">Instagram : \t @isrzl</string>
+</resources>
